@@ -5,7 +5,8 @@
   "tags": [
     "php",
     "externs",
-    "pthreads"
+    "pocketmine",
+    "log"
   ],
   "description": "Haxe externs for the pocketmine logger components",
   "version": "0.0.1",
